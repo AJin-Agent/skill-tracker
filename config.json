@@ -1,0 +1,12 @@
+{
+  "mode": "heartbeat",
+  "heartbeat": {
+    "enabled": true
+  },
+  "schedule": {
+    "enabled": false,
+    "cron": "0 4 * * *"
+  },
+  "created": "2026-03-13T11:16:00+08:00",
+  "user": "Boss"
+}
