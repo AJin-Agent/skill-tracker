@@ -23,7 +23,7 @@ Track OpenClaw skill usage statistics by scanning session transcripts. **Cross-p
 ```bash
 # Clone or download the skill
 cd ~/.openclaw/workspace-main/skills
-git clone https://github.com/shaoyong-hu/skill-tracker.git
+git clone https://github.com/AJin-Agent/skill-tracker.git
 
 # Or install via ClawHub
 clawhub install skill-tracker
@@ -128,7 +128,7 @@ Edit `config.json` to change the tracking mode:
 ```bash
 # 克隆或下载 skill
 cd ~/.openclaw/workspace-main/skills
-git clone https://github.com/shaoyong-hu/skill-tracker.git
+git clone https://github.com/AJin-Agent/skill-tracker.git
 
 # 或通过 ClawHub 安装
 clawhub install skill-tracker
