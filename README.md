@@ -1,4 +1,4 @@
-# 🎯 Skill Tracker
+# 🎯 Skill Usage Tracker
 
 [English](#english) | [中文](#中文)
 
@@ -23,10 +23,10 @@ Track OpenClaw skill usage statistics by scanning session transcripts. **Cross-p
 ```bash
 # Clone or download the skill
 cd ~/.openclaw/workspace-main/skills
-git clone https://github.com/AJin-Agent/skill-tracker.git
+git clone https://github.com/AJin-Agent/skill-usage-tracker.git
 
 # Or install via ClawHub
-clawhub install skill-tracker
+clawhub install skill-usage-tracker
 ```
 
 ### Commands
@@ -57,7 +57,7 @@ node scripts/tracker.js reset
 📊 Skill Usage Statistics (Total: 715 calls)
 
 Top Skills:
-  1. skill-tracker (148 calls)
+  1. skill-usage-tracker (148 calls)
   2. self-improving-agent (144 calls)
   3. elite-longterm-memory (134 calls)
   4. obsidian (108 calls)
@@ -128,10 +128,10 @@ Edit `config.json` to change the tracking mode:
 ```bash
 # 克隆或下载 skill
 cd ~/.openclaw/workspace-main/skills
-git clone https://github.com/AJin-Agent/skill-tracker.git
+git clone https://github.com/AJin-Agent/skill-usage-tracker.git
 
 # 或通过 ClawHub 安装
-clawhub install skill-tracker
+clawhub install skill-usage-tracker
 ```
 
 ### 命令
@@ -162,7 +162,7 @@ node scripts/tracker.js reset
 📊 Skill Usage Statistics (Total: 715 calls)
 
 Top Skills:
-  1. skill-tracker (148 calls)
+  1. skill-usage-tracker (148 calls)
   2. self-improving-agent (144 calls)
   3. elite-longterm-memory (134 calls)
   4. obsidian (108 calls)

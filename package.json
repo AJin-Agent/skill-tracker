@@ -1,0 +1,21 @@
+{
+  "name": "skill-tracker",
+  "version": "1.0.0",
+  "description": "Track OpenClaw skill usage statistics - Cross-platform (Mac/Windows/Linux)",
+  "main": "scripts/tracker.js",
+  "scripts": {
+    "scan": "node scripts/tracker.js scan",
+    "stats": "node scripts/tracker.js stats",
+    "unused": "node scripts/tracker.js unused",
+    "share": "node scripts/tracker.js share"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "tracker",
+    "statistics",
+    "usage"
+  ],
+  "author": "AJin-Agent",
+  "license": "MIT"
+}

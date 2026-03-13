@@ -1,6 +1,7 @@
 ---
-name: skill-tracker
-description: "Track skill usage statistics. Use when: (1) scanning session transcripts for skill usage, (2) viewing usage stats, (3) finding unused skills, (4) sharing frequently used skills. Triggers on: 'skill scan', 'skill stats', 'skill unused', 'skill share'. Cross-platform: Mac/Windows/Linux via Node.js."
+name: skill-usage-tracker
+version: "1.0.0"
+description: "Track OpenClaw skill usage statistics by scanning session transcripts. Features: auto scan, usage stats, unused detection, one-click share. Cross-platform (Mac/Windows/Linux). Commands: 'skill scan', 'skill stats', 'skill unused', 'skill share'."
 ---
 
 # Skill Tracker
